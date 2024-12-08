@@ -1,6 +1,6 @@
 # auth_project
 
-A new Flutter project.
+This is a basic flutter authentication project integrated with firebase. This project features authentication screens for an app
 
 ## Getting Started
 
