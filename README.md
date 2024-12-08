@@ -36,4 +36,21 @@ To run this project, ensure you have the following installed:
 - Android Studio: IDE for app development.
 - Dart: Programming language used.
 
+## Getting Started
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/flutter_firebase_auth.git
+   cd flutter_firebase_auth
+   ```
+2. **Install Dependencies:**
+   Make sure you have Flutter and Dart SDK installed. Run the following command to get the required packages:
+   
+```bash
+  flutter pub get
+```
+   
   
