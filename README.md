@@ -47,10 +47,14 @@ Follow these steps to set up the project locally:
    cd flutter_firebase_auth
    ```
 2. **Install Dependencies:**
+   
    Make sure you have Flutter and Dart SDK installed. Run the following command to get the required packages:
    
-```bash
-  flutter pub get
-```
+   ```bash
+     flutter pub get
+   ```
+4. **Set up Firebase:**
+
+   - Go to the [Firebase Console](https://console.firebase.google.com/)
    
   
